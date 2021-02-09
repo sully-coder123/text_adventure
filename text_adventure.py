@@ -74,5 +74,3 @@ if answer == 'yes':
     game()
 elif answer == 'no':
     sys.exit()
-
-# really bad way of doing things 
